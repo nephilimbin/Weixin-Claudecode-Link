@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.js
+*.d.ts
+!src/vendor.d.ts
+
+# 文档
+docs/
+package/
+test/
